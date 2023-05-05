@@ -1,0 +1,13 @@
+{
+  "name": "alphaos",
+  "vendor": "madum",
+  "appId": "cc.madum.alphaos",
+  "binaryName": "alphaos",
+  "version": {
+    "product": "firefox",
+    "version": "112.0.2"
+  },
+  "buildOptions": {
+    "windowsUseSymbolicLinks": false
+  }
+}
